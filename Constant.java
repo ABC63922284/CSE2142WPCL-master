@@ -10,7 +10,4 @@ public class Constant {
     public static String dateFormat = "dd/mm/yyyy-hh:mm:ss a";
     public static String Found = "We found it!";
     public static String error = "Error: This argument is not recognised.";
-
-
-
 }
